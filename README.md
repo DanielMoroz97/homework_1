@@ -1,4 +1,5 @@
 # homework_1
+Установил на  Ubuntu
 thai=# select count(*) from book.tickets;
   count  
 ---------
